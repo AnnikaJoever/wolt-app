@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/wolt-app/static/css/main.fa43c977.chunk.css",
-    "main.js": "/wolt-app/static/js/main.cacf9720.chunk.js",
-    "main.js.map": "/wolt-app/static/js/main.cacf9720.chunk.js.map",
-    "runtime-main.js": "/wolt-app/static/js/runtime-main.b677a271.js",
-    "runtime-main.js.map": "/wolt-app/static/js/runtime-main.b677a271.js.map",
-    "static/js/2.dee17a74.chunk.js": "/wolt-app/static/js/2.dee17a74.chunk.js",
-    "static/js/2.dee17a74.chunk.js.map": "/wolt-app/static/js/2.dee17a74.chunk.js.map",
-    "static/js/3.d5c4e102.chunk.js": "/wolt-app/static/js/3.d5c4e102.chunk.js",
-    "static/js/3.d5c4e102.chunk.js.map": "/wolt-app/static/js/3.d5c4e102.chunk.js.map",
+    "main.js": "/wolt-app/static/js/main.9d987868.chunk.js",
+    "main.js.map": "/wolt-app/static/js/main.9d987868.chunk.js.map",
+    "runtime-main.js": "/wolt-app/static/js/runtime-main.e49e65fc.js",
+    "runtime-main.js.map": "/wolt-app/static/js/runtime-main.e49e65fc.js.map",
+    "static/js/2.d340608b.chunk.js": "/wolt-app/static/js/2.d340608b.chunk.js",
+    "static/js/2.d340608b.chunk.js.map": "/wolt-app/static/js/2.d340608b.chunk.js.map",
+    "static/js/3.e57c9487.chunk.js": "/wolt-app/static/js/3.e57c9487.chunk.js",
+    "static/js/3.e57c9487.chunk.js.map": "/wolt-app/static/js/3.e57c9487.chunk.js.map",
     "index.html": "/wolt-app/index.html",
     "static/css/main.fa43c977.chunk.css.map": "/wolt-app/static/css/main.fa43c977.chunk.css.map",
-    "static/js/2.dee17a74.chunk.js.LICENSE.txt": "/wolt-app/static/js/2.dee17a74.chunk.js.LICENSE.txt"
+    "static/js/2.d340608b.chunk.js.LICENSE.txt": "/wolt-app/static/js/2.d340608b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b677a271.js",
-    "static/js/2.dee17a74.chunk.js",
+    "static/js/runtime-main.e49e65fc.js",
+    "static/js/2.d340608b.chunk.js",
     "static/css/main.fa43c977.chunk.css",
-    "static/js/main.cacf9720.chunk.js"
+    "static/js/main.9d987868.chunk.js"
   ]
 }
