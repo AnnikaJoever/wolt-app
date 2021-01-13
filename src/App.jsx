@@ -1,9 +1,9 @@
 import React from 'react';
-import CardContainer from './components/CardContainer';
+import Restaurants from './views/Restaurants';
 
 const App = () => (
   <>
-    <CardContainer />
+    <Restaurants />
   </>
 )
 
