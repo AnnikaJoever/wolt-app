@@ -6,9 +6,6 @@ const CardContainer = () => {
     const [items, setItems] = useState(restaurants.restaurants);
     const [sortConfig, setSortConfig] = useState({ dir: null });
 
-    console.log(sortConfig);
-    console.log('items: ', items);
-
     const sortRestaurants = () => {
         let dir = 'asc';
 
